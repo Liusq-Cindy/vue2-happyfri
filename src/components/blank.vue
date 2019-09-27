@@ -1,11 +1,12 @@
 <template>
 	<div>
-		这是score页
+		lsq空白----初始页面
 	</div>
 </template>
 
 <script>
 export default {
+	name: 'itemcontainer',
 	data() {
 		return {
 		}

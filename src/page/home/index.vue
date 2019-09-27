@@ -1,16 +1,16 @@
 <template>
   	<div class="home_container">
-        <itemcontainer father-component="home"></itemcontainer>
+        这是首页哦
     </div>
 </template>
 
 <script>
-import itemcontainer from '../../components/itemcontainer'
+// import itemcontainer from '../../components/blank'
 
 export default {
 	name: 'home',
   	components: {
-  		itemcontainer
+  		// itemcontainer
   	},
     created(){
         
